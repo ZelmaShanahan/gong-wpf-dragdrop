@@ -1,4 +1,4 @@
-This license applies to modified Microsoft WPF code used in GongSolutions.WPF.DragDrop/Utilities/VisualTreeDescendantBoundsHelper.cs and originally sourced from https://github.com/dotnet/wpf/blob/83b9af142acd341d4bf470450e8b5c3ec3723d76/src/Microsoft.DotNet.Wpf/src/PresentationCore/System/Windows/Media/Visual.cs
+This#license applies to modified Microsoft WPF code used in GongSolutions.WPF.DragDrop/Utilities/VisualTreeDescendantBoundsHelper.cs and originally sourced from https://github.com/dotnet/wpf/blob/83b9af142acd341d4bf470450e8b5c3ec3723d76/src/Microsoft.DotNet.Wpf/src/PresentationCore/System/Windows/Media/Visual.cs
 
 The MIT License (MIT)
 
@@ -23,3 +23,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+ 
